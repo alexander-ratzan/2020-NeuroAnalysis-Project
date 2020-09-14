@@ -1,0 +1,1 @@
+{"duration": 0.7680070400238037, "input_args": {"data_imgs": "'/Users/aratzan/Downloads/brainiak_datasets/latatt/processed_data/background/motionnuisance/sub01.nii.gz'", "border_size": "2", "connected": "False", "opening": "False", "target_affine": "None", "target_shape": "None", "memory": "None"}}
