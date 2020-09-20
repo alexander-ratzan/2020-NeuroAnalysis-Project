@@ -1,6 +1,6 @@
 # 🧠 NeuroAnalysis Project 🧠
 
-Throughout the summer of 2020, I spent a significant amount of time doing my own neuroscience research. This mainly consisted of first educating myself further about how neuro-imaging and neuro-imaging analysis works and then moving onto exploratory analysis of where to find datasets and how to load/analyze them. I quickly came across several packages such as nilearn and brainiak and incorporated them with already known machine learning packages (sci-kit learn) and other built in Python statistical analysis tools.
+Throughout the summer of 2020 I spent a significant amount of time doing my own neuroscience research. This mainly consisted of first educating myself further about how neuro-imaging and neuro-imaging analysis works and then moving onto exploratory analysis of where to find datasets and how to load/analyze them. I quickly came across several packages such as nilearn and brainiak and incorporated them with already known machine learning packages (sci-kit learn) and other built in Python statistical analysis tools.
 
 
 ##
