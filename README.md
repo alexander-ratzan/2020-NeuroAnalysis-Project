@@ -1,6 +1,6 @@
 # 🧠 NeuroAnalysis Project 🧠
 
-Throughout the summer of 2020 I spent a significant amount of time doing my own neuroscience research. This mainly consisted of first educating myself further about how neuro-imaging and neuro-imaging analysis works and then moving onto exploratory analysis of where to find datasets and how to load/analyze them. I quickly came across several packages such as nilearn and brainiak and incorporated them with already known machine learning packages (sci-kit learn) and other built in Python statistical analysis tools.
+Throughout the summer of 2020 I spent a significant amount of time doing my own neuroscience research. This mainly consisted of first educating myself further about how neuro-imaging and neuro-imaging analysis works and then moving onto exploratory analysis of where to find datasets and how to load/analyze them. I quickly came across several packages such as nilearn and brainiak and incorporated them with already known machine learning packages (sci-kit learn) and other built in Python statistical analysis tools to complete this project.
 
 
 ##
@@ -9,7 +9,7 @@ Brainiak ended up being a really great way for me to familiarize myself with fMR
 
 ## Viewing notebooks
 
-Please read through the notebooks as you would an academic paper. All completed notebooks are in the brainiak_notebooks folder. Some are extensive and contain many visualizations and brain plots. For a brief overview, I recommend reading just the introduction, Goal, and Conclusion sections. 
+Please read through the notebooks as you would an academic paper. All completed notebooks are in the brainiak_notebooks folder. Some are extensive and contain many visualizations and brain plots. For a brief overview, I recommend reading just the Introduction, Goal, and Conclusion sections. 
 
 These notebooks can be pulled and run on their own although they require a large dataset to be downloaded from https://zenodo.org/record/2598755. More detailed instructions can be found here (note: this will only download the data, these notebooks are simply outlines).
 
