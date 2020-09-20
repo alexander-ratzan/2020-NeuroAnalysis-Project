@@ -11,7 +11,7 @@ Brainiak ended up being a really great way for me to familiarize myself with fMR
 
 Please read through the notebooks as you would an academic paper. All completed notebooks are in the brainiak_notebooks folder. Some are extensive and contain many visualizations and brain plots. For a brief overview, I recommend reading just the Introduction, Goal, and Conclusion sections. 
 
-These notebooks can be pulled and run on their own although they require a large dataset to be downloaded from https://zenodo.org/record/2598755. More detailed instructions can be found here (note: this will only download the data, these notebooks are simply outlines).
+These notebooks can be pulled and run on their own although they require a large dataset to be downloaded from https://zenodo.org/record/2598755. More detailed instructions can be found here, https://brainiak.org/tutorials/ (note: this will only download the data, these notebooks are simply outlines).
 
 ## Extension 
 Learning is a constant journey and I don't anticipate stopping anytime soon. I will likely continue to upload to this repository with mini projects, such as my seizure classifier mini project I'm working on now. Check back in occasionally to see new projects. 
