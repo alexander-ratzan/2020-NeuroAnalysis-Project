@@ -19,4 +19,4 @@ Learning is a constant journey and I don't anticipate stopping anytime soon. I w
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Sean Traynor (Tufts University) was a collaborator on this project, primarily working on editing, debugging, and formatting of Jupyter notebooks. 
+Sean Traynor (Tufts University, https://github.com/sean-traynor) was a collaborator on this project primarily working on editing, debugging, and formatting of Jupyter notebooks. 
