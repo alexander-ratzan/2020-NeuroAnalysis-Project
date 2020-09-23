@@ -11,6 +11,8 @@ Brainiak ended up being a really great way for me to familiarize myself with fMR
 
 Please read through the notebooks as you would an academic paper. All completed notebooks are in the brainiak_notebooks folder. Some are extensive and contain many visualizations and brain plots. For a brief overview, I recommend reading just the Introduction, Goal, and Conclusion sections. 
 
+**Sometimes the notebooks will not load initially in github. If this is the case, close the window, reopen the desired notebook, and reload if an error message pops up. The notebook should then display.**
+
 These notebooks can be pulled and run on their own although they require a large dataset to be downloaded from https://zenodo.org/record/2598755. More detailed instructions can be found here, https://brainiak.org/tutorials/ (note: this will only download the data, these notebooks are simply outlines).
 
 ## Extension 
